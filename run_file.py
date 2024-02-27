@@ -1,7 +1,3 @@
-!pip install sklearn
-!pip install matplotlib
-!pip install plotly
-
 
 import streamlit as st
 import pandas as pd
